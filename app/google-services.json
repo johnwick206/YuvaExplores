@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "157772727752",
+    "project_id": "yuvaexplorers-85c46",
+    "storage_bucket": "yuvaexplorers-85c46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157772727752:android:2db978d2c6c8db72b1acfd",
+        "android_client_info": {
+          "package_name": "com.YuvaExplorers.Treks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157772727752-u1gftc9poommg90ig20na5fhu3f2oq30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.YuvaExplorers.Treks",
+            "certificate_hash": "7af5dc7d038d23c00cd700c339e8a5b03bb6020b"
+          }
+        },
+        {
+          "client_id": "157772727752-d3f4jv1v9lv548cp2nhan3u6aasbfsm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlI27u3xh2Nw63kzarmpoBjVOPO0ddEcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157772727752-d3f4jv1v9lv548cp2nhan3u6aasbfsm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
